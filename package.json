@@ -2,6 +2,7 @@
   "name": "snake-game",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https:/vladyslav-panchenko280.github.io/snake-game-react-tsx",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -21,6 +22,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
