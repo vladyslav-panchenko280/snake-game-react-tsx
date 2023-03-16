@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vladyslav-panchenko280.github.io/snake-game-react-tsx/static/css/main.b0de88eb.css",
-    "main.js": "/vladyslav-panchenko280.github.io/snake-game-react-tsx/static/js/main.31ce3d4d.js",
-    "index.html": "/vladyslav-panchenko280.github.io/snake-game-react-tsx/index.html",
-    "main.b0de88eb.css.map": "/vladyslav-panchenko280.github.io/snake-game-react-tsx/static/css/main.b0de88eb.css.map",
-    "main.31ce3d4d.js.map": "/vladyslav-panchenko280.github.io/snake-game-react-tsx/static/js/main.31ce3d4d.js.map"
+    "main.css": "/snake-game-react-tsx/static/css/main.b0de88eb.css",
+    "main.js": "/snake-game-react-tsx/static/js/main.31ce3d4d.js",
+    "index.html": "/snake-game-react-tsx/index.html",
+    "main.b0de88eb.css.map": "/snake-game-react-tsx/static/css/main.b0de88eb.css.map",
+    "main.31ce3d4d.js.map": "/snake-game-react-tsx/static/js/main.31ce3d4d.js.map"
   },
   "entrypoints": [
     "static/css/main.b0de88eb.css",
